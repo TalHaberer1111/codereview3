@@ -1,1 +1,19 @@
+body {
+  background-image: url(http://hdwallpaperspretty.com/wp-content/gallery/graphic-background-images/yellow-backgrounds.jpg);
+  background-size: cover;
+}
 
+.jumbotron {
+  text-align: center;
+  color: #002b55;
+}
+
+.me {
+  text-align: left;
+}
+
+.footer-center {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 100px;
+}

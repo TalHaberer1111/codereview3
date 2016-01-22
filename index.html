@@ -12,16 +12,37 @@
 
 
   <body>
+    <div class="container">
+      <div class="jumbotron">
+
 
     <h1>Ping Pong Test</h1>
     <p>Let's play the Ping-Pong game. The Ping-Pong game is a simple test that involves loops, conditionals, and variables. Enter your number below to start</p>
-        <form>
+    <p>
+      Ping Pong will count up to your number from 1 with the following exceptions:
+    </p>
+    <p>
+      <ol class= "me">
+        <li>Numbers divisible by 3 become 'Ping'</li>
+        <li>Numbers divisible by % become 'Pong'</li>
+        <li>Numbers divisible by 3 and 5 become 'PingPong'</li>
+      </ol>
+    </p>
+
+    <p><a class="btn btn-primary btn-lg" href="index.html" role="button">Restart the game</a></p>
+        <form id="PingPong">
           Your number:
           <input type="number" name="input-number" id="input-number">
           <input type="submit" value="Calculate">
         </form>
 
-        <ul id="list"></ul>
+        <P id="list"></p>
 
+      </div>
+      </div>
+      <div class = "footer-center">
+        <p>
+          &#169 2016 Tal Haberer , Inc.
+        </p>
   </body>
 </html>
