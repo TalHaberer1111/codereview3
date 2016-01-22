@@ -45,6 +45,8 @@ $(document).ready(function(){
 
 
 
+
+
 //business logic
 // var counting = function(countTo) {
 //   var countUp = [];
