@@ -14,14 +14,7 @@ Numbers divisible by 15 are replaced with "pingpong"
 A user should be able to enter a new number and see new results over and over again.}_
 
 ## Setup/Installation Requirements
-
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+_{To view my webpage and play the game you can go to http://talh2016.github.io/codereview3/ and check it out! :) its fun!}_
 
 ## Known Bugs
 
@@ -33,10 +26,10 @@ _{If you run into any issues relating with the code, do not hesitate to email me
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_{For this game website I had used HTML, CSS, JavaScript, Jquery, bootstrap, mocha and chai}_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*{Tal Haberer, Inc/ MIT}*
 
 Copyright (c) 2015 **_{List of contributors or company name}_**

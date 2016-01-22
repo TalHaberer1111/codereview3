@@ -10,6 +10,6 @@ describe("pingPong", function() {
     expect(pingPong(5)).to.equal(1 , 2 , 'ping' , 7 , "pong");
   });
   it("returns all integers up to the number of input", function() {
-    expect(pingPong(2)).to.equal(1 , 2);
+    expect(pingPong(2)).to.equal(7 , 2);
   });
 });
