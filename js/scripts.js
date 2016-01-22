@@ -28,13 +28,13 @@ $(document).ready(function(){
 
     for (var i = 1; i <= num; i++) {
       if (i % 15 === 0) {
-        $('#list').append('<li>'+"Ping-Pong"+'</li>');}
+        $('#show').append('<li>'+"Ping-Pong"+'</li>');}
       else if (i % 3 === 0) {
-        $('#list').append('<li>'+"Ping"+'</li>');}
+        $('#show').append('<li>'+"Ping"+'</li>');}
       else if (i % 5 === 0) {
-        $('#list').append('<li>'+"Pong"+'</li>');}
+        $('#show').append('<li>'+"Pong"+'</li>');}
       else{
-        $('#list').append('<li>'+i+'</li>');}
+        $('#show').append('<li>'+i+'</li>');}
 
     };
 
